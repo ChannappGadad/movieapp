@@ -1,0 +1,18 @@
+.app {
+    background-color: #111;
+}
+
+.banner {
+    color: white;
+    object-fit: contain;
+    height: 448px;
+}
+
+h1 {
+    color: white;
+}
+
+.Banner_contents {
+    margin-left: 30px;
+    padding: 140px;
+}
